@@ -1,0 +1,8 @@
+# Project exclude paths
+.idea/workspace.xml
+*.pyc
+static/media/stu_img/*.jpg
+src/pyppeteer_crawler/*.png
+*.log
+
+
